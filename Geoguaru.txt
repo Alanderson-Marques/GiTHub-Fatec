@@ -1,0 +1,4 @@
+!pip install geobr
+!pip install geopandas
+import geobr
+import geopandas
